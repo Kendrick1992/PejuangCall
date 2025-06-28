@@ -5,7 +5,7 @@ import asyncio
 import os
 from openpyxl import Workbook, load_workbook
 
-BOT_TOKEN = "7573602912:AAFGGQNQwY8jQxnuN83I7FSIZUz7-4tc7WE"
+BOT_TOKEN = "7407040572:AAFuKe2eq74xCO024zy9OoEeSJ8Ojf34PpA"
 
 # Penyimpanan data izin per grup
 iizin_grup = {}       # chat_id -> {user_id: {jenis, start, limit}}
